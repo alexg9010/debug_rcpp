@@ -1,14 +1,4 @@
----
-title: "How to debug Rcpp code in a package"
-output: html_document
-author: Alexander Gosdschan  
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
+# How to debug Rcpp code in a package
 
 ### Preparation of the debug environment
 
